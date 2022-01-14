@@ -1,0 +1,6 @@
+baseURL = "https://zhade.dev/financial"
+languageCode = "en-us"
+title = "Financial Advice"
+theme = "hugo-book"
+[params]
+  BookSection = "*"
