@@ -1,8 +1,7 @@
-+++
-title = "Real Estate"
-date = "2021-01-13T00:00:00.000Z"
-draft = "false"
-+++
+---
+title: "Real Estate"
+draft: false
+---
 
 # Real Estate
 

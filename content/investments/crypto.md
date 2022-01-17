@@ -1,8 +1,7 @@
-+++
-title = "Cryptocurrency"
-date = "2021-01-13T00:00:00.000Z"
-draft = "false"
-+++
+---
+title: "Cryptocurrency"
+draft: false
+---
 
 # Cryptocurrency
 
