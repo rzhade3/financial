@@ -2,5 +2,10 @@ baseURL = "https://zhade.dev/financial"
 languageCode = "en-us"
 title = "Financial Advice"
 theme = "hugo-book"
+enableGitInfo = true
 [params]
   BookSection = "*"
+  BookTheme = "dark"
+  BookRepo = "https://github.com/rzhade3/financial"
+  BookEditPath = "edit/main"
+  BookDateFormat = '2 Jan 2006'

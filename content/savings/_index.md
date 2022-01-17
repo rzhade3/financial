@@ -5,9 +5,9 @@ draft: false
 
 # Savings
 
-Savings are any amount of money that you have made but not spent over a given time. Savings may be used to prepare for emergencies, or to make bigger purchases down the line.
+Savings are any amount of money that you have made but not spent over a given time. They differ from investments because savings should have zero risk attached.
 
-A general rule of thumb is to keep 3 to 6 months of expenses in savings for emergency purposes. However, depending on your risk tolerance and financial situation, you may want to save more or less.
+Savings may be used to prepare for emergencies in the future, or even to make bigger purchases down the line (new house, new car, etc.)
 
 The main criteria you should look for in a savings vessel are:
 
@@ -16,6 +16,12 @@ The main criteria you should look for in a savings vessel are:
 * a reasonable amount of interest (**yield**)
 
 There are a couple of different ways that you can store your savings. Read through the articles in this section for a description of each.
+
+## General Guidance
+
+Some general rules of thumb when it comes to saving money:
+
+* Generally speaking, you should keep 3 to 6 months of expenses in savings for emergency purposes. 
 
 ## Further Reading
 
